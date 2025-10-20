@@ -51,7 +51,7 @@ I'm always open to discussing new opportunities, collaborations, or back-end arc
 
 * **LinkedIn:** https://www.linkedin.com/in/lisakhanya-mpahla-69b8ab271
 * **Personal Website/Portfolio:** [Add your Portfolio URL here]
-* **Email:** [Add your Email Address here]
+* **Email:** 230126669@mycput.ac.za
 
 <br>
 
