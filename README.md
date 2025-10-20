@@ -56,9 +56,3 @@ I'm always open to discussing new opportunities, collaborations, or back-end arc
 <br>
 
 ---
-
-## 📈 My GitHub Stats
-
-![Lisakhanya Mpahla GitHub Stats](https://github-readme-stats.vercel.app/api?username=lisakhanyampahla10&show_icons=true&theme=vue)
-
----
