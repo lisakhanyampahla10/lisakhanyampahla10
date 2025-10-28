@@ -70,15 +70,15 @@ Built with **Java**, **Spring Boot**, and **MySQL**, and connected to **MySQL Wo
 
 Here are some of the professional certificates I’ve earned to strengthen my technical and business knowledge:
 
-| Certificate Title | Issuer |
-| :---------------- | :------ |
-| 🏆 Craft a Great GitHub Profile | LinkedIn Learning |
-| 💼 Finance Essentials for Small Business | LinkedIn Learning |
-| 💰 Foundations of Raising Capital | LinkedIn Learning |
-| 🧠 Learning Git and GitHub | LinkedIn Learning |
-| ⚙️ Level Up: Advanced SQL | LinkedIn Learning |
-| 🗄️ Microsoft SQL Server 2016: Query Data | LinkedIn Learning |
-| 💡 Understanding Business | LinkedIn Learning |
+| Certificate | Verification |
+| :----------- | :------------ |
+| 🏆 [Craft a Great GitHub Profile](https://github.com/yourusername/yourrepo/blob/main/certificates/CertificateOfCompletion_Craft%20a%20Great%20GitHub%20Profile.pdf) | ![Badge](https://img.shields.io/badge/View-Certificate-blue?style=flat-square) |
+| 💼 [Finance Essentials for Small Business](https://github.com/yourusername/yourrepo/blob/main/certificates/CertificateOfCompletion_Finance%20Essentials%20for%20Small%20Business.pdf) | ![Badge](https://img.shields.io/badge/View-Certificate-blue?style=flat-square) |
+| 💰 [Foundations of Raising Capital](https://github.com/yourusername/yourrepo/blob/main/certificates/CertificateOfCompletion_Foundations%20of%20Raising%20Capital.pdf) | ![Badge](https://img.shields.io/badge/View-Certificate-blue?style=flat-square) |
+| 🧠 [Learning Git and GitHub](https://github.com/yourusername/yourrepo/blob/main/certificates/CertificateOfCompletion_Learning%20Git%20and%20GitHub.pdf) | ![Badge](https://img.shields.io/badge/View-Certificate-blue?style=flat-square) |
+| ⚙️ [Level Up: Advanced SQL](https://github.com/yourusername/yourrepo/blob/main/certificates/CertificateOfCompletion_Level%20Up%20Advanced%20SQL.pdf) | ![Badge](https://img.shields.io/badge/View-Certificate-blue?style=flat-square) |
+| 🗄️ [Microsoft SQL Server 2016: Query Data](https://github.com/yourusername/yourrepo/blob/main/certificates/CertificateOfCompletion_Microsoft%20SQL%20Server%202016%20Query%20Data.pdf) | ![Badge](https://img.shields.io/badge/View-Certificate-blue?style=flat-square) |
+| 💡 [Understanding Business](https://github.com/yourusername/yourrepo/blob/main/certificates/CertificateOfCompletion_Understanding%20Business.pdf) | ![Badge](https://img.shields.io/badge/View-Certificate-blue?style=flat-square) |
 
 ---
 
