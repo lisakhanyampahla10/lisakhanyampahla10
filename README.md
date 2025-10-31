@@ -71,7 +71,7 @@ Built with **Java**, **Spring Boot**, and **MySQL**, and connected to **MySQL Wo
 | Qualification | Institution | Year |
 | :------------- | :----------- | :---- |
 | **Diploma in ICT (Applications Development)** | Cape Peninsula University of Technology (CPUT) | _In Progress_ |
-| **National Senior Certificate (Matric)** | [Ezingcuka High School] | [2022] |
+| **National Senior Certificate (Matric)** | Ezingcuka High School | 2022 |
 
 **Key Academic Focus Areas:**
 - Software Development & Testing  
@@ -86,15 +86,15 @@ Built with **Java**, **Spring Boot**, and **MySQL**, and connected to **MySQL Wo
 
 Here are some of the professional certificates I’ve earned to strengthen my technical and business knowledge:
 
-| Certificate | Issued | Verification |
-| :----------- | :------ | :------------ |
-| 🏆 [Craft a Great GitHub Profile](./CertificateOfCompletion_Craft%20a%20Great%20GitHub%20Profile%20(1).pdf) | May 6, 2025 | ![Badge](https://img.shields.io/badge/View-Certificate-blue?style=flat-square) |
-| 💼 [Finance Essentials for Small Business](./CertificateOfCompletion_Finance%20Essentials%20for%20Small%20Business.pdf) | May 11, 2025 | ![Badge](https://img.shields.io/badge/View-Certificate-blue?style=flat-square) |
-| 💰 [Foundations of Raising Capital](./CertificateOfCompletion_Foundations%20of%20Raising%20Capital.pdf) | May 11, 2025 | ![Badge](https://img.shields.io/badge/View-Certificate-blue?style=flat-square) |
-| 🧠 [Learning Git and GitHub](./CertificateOfCompletion_Learning%20Git%20and%20GitHub.pdf) | _Add issue date_ | ![Badge](https://img.shields.io/badge/View-Certificate-blue?style=flat-square) |
-| ⚙️ [Level Up: Advanced SQL](./CertificateOfCompletion_Level%20Up%20Advanced%20SQL.pdf) | May 11, 2025 | ![Badge](https://img.shields.io/badge/View-Certificate-blue?style=flat-square) |
-| 🗄️ [Microsoft SQL Server 2016: Query Data](./CertificateOfCompletion_Microsoft%20SQL%20Server%202016%20Query%20Data.pdf) | May 11, 2025 | ![Badge](https://img.shields.io/badge/View-Certificate-blue?style=flat-square) |
-| 💡 [Understanding Business](./CertificateOfCompletion_Understanding%20Business.pdf) | May 11, 2025 | ![Badge](https://img.shields.io/badge/View-Certificate-blue?style=flat-square) |
+| Certificate | Issued |
+| :----------- | :------ |
+| 🏆 [Craft a Great GitHub Profile](./CertificateOfCompletion_Craft%20a%20Great%20GitHub%20Profile%20(1).pdf) | May 6, 2025 |
+| 💼 [Finance Essentials for Small Business](./CertificateOfCompletion_Finance%20Essentials%20for%20Small%20Business.pdf) | May 11, 2025 |
+| 💰 [Foundations of Raising Capital](./CertificateOfCompletion_Foundations%20of%20Raising%20Capital.pdf) | May 11, 2025 |
+| 🧠 [Learning Git and GitHub](./CertificateOfCompletion_Learning%20Git%20and%20GitHub.pdf) | _Add issue date_ |
+| ⚙️ [Level Up: Advanced SQL](./CertificateOfCompletion_Level%20Up%20Advanced%20SQL.pdf) | May 11, 2025 |
+| 🗄️ [Microsoft SQL Server 2016: Query Data](./CertificateOfCompletion_Microsoft%20SQL%20Server%202016%20Query%20Data.pdf) | May 11, 2025 |
+| 💡 [Understanding Business](./CertificateOfCompletion_Understanding%20Business.pdf) | May 11, 2025 |
 
 ---
 
