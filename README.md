@@ -1,68 +1,75 @@
-<p align="center">
-</p>
-
-# 🧑‍💻 Lisakhanya Mpahla | Full-Stack Developer
-
-I’m a passionate **Full-Stack Developer** with **5 months of experience in full-stack development** and **6 months of software testing** experience.  
-I thrive on building robust, data-driven applications and focus heavily on **server-side logic**, **database architecture**, and **scalable system design**.
-
-My core specialization lies in **Back-End Development** using **Java**, **MySQL**, and **SQLite**, with growing expertise in **Vaadin**, **PHP**, and **Node.js** for front-end and full-stack integration.
+# 🎓 Lisakhanya Mpahla – Digital Portfolio
+**Project Presentation 3 (PRP370S)**  
+**Diploma in ICT (Applications Development)**  
+**Faculty of Informatics and Design | Cape Peninsula University of Technology**
 
 ---
 
-## 🛠️ Skills Matrix
+## 🧩 Step 1: Collect
+This section includes all artefacts and evidence of my learning throughout the semester.
 
-| **Frontend** | **Backend** | **Databases** |
-| :-----------: | :----------: | :------------: |
-| Vaadin | Java | MySQL |
-| HTML | Node.js | SQLite |
-| CSS | Go |  |
-| JavaScript | PHP |  |
-
----
-
-### ✨ Visual Skill Badges
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Vaadin](https://img.shields.io/badge/Vaadin-00B4F0?style=for-the-badge&logo=vaadin&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### 📁 Artefacts Collected
+- [MYGGG Inventory Management System](https://github.com/yourusername/MYGGG)
+- [Car of the Year Voting System](https://github.com/yourusername/CarVotingSystem)
+- [Bursary Management System](https://github.com/yourusername/BursaryManagementSystem)
+- [Lecturer–Student Online Communication System](https://github.com/lisakhanyampahla10/Project3)
+- [Trailer Hire Management System](https://github.com/lisakhanyampahla10/Trailer-Hire-Project)
+- [LinkedIn Profile](https://www.linkedin.com/in/lisakhanya-mpahla-69b8ab271)
+- Certificates:
+  - Craft a Great GitHub Profile  
+  - Level Up: Advanced SQL  
+  - Finance Essentials for Small Business  
+  - Understanding Business  
 
 ---
 
-## 🔥 Featured Projects
+## 🧩 Step 2: Select
+The artefacts below best demonstrate my growth in technical and professional skills this semester.
 
-### **MYGGG Inventory Management System**
-A web-based inventory platform that tracks products, manages stock levels, and processes customer orders.  
-It showcases my ability to integrate **PHP**, **MySQL**, and **HTML/CSS** into a dynamic full-stack system.
-
-| Link | Technologies |
-| :--- | :--- |
-| [GitHub Repo](https://github.com/yourusername/MYGGG) | PHP, MySQL, HTML, CSS |
-
----
-
-### **Car of the Year Voting System**
-A client-server Java application that allows users to vote for their favorite car and view real-time results.  
-This project demonstrates my understanding of **network programming**, **GUI design**, and **database integration**.
-
-| Link | Technologies |
-| :--- | :--- |
-| [GitHub Repo](https://github.com/yourusername/CarVotingSystem) | Java, SQLite, Socket Programming |
+| Selected Work | Description | Skills Demonstrated |
+| :------------- | :----------- | :------------------ |
+| **Lecturer–Student Online Communication System** | A web platform designed to connect lecturers and students across South African universities, allowing them to share notes, announcements, and learning materials efficiently. | PHP, MySQL, HTML, CSS, Full-Stack Design |
+| **Trailer Hire Management System** | A full-stack Java and Vaadin application for customers to browse and hire trailers of their choice. | Java, Vaadin, MySQL, System Integration |
+| **MYGGG Inventory System** | A web-based system for managing inventory and customer orders dynamically. | PHP, MySQL, HTML/CSS |
+| **Car of the Year Voting System** | A client-server Java application that enables real-time car voting. | Java, Networking, Databases |
+| **Bursary Management System** | A Vaadin and Spring Boot web application for managing bursary applications and reports. | Java, Vaadin, Spring Boot, MySQL |
 
 ---
 
-### **Bursary Management System**
-A full-stack Spring Boot and Vaadin application designed to manage bursary applications, approvals, and reporting.  
-Built with **Java**, **Spring Boot**, and **MySQL**, and connected to **MySQL Workbench** for data management.
+## 🧩 Step 3: Reflect
+Throughout this semester, I developed both **technical and professional competencies** that shaped my growth as a future software developer.  
+- I gained deeper knowledge in **backend development** using Java and MySQL.  
+- I strengthened my understanding of **system design**, including user interaction and database connectivity.  
+- Working on the **Trailer Hire System** taught me how to integrate Vaadin components and manage user sessions.  
+- The **Lecturer–Student Communication System** improved my skills in creating user-friendly platforms with dynamic PHP and database logic.  
+- Completing my **LinkedIn Learning Certificates** helped me understand business operations, SQL optimization, and how to present my technical portfolio professionally.
 
-| Link | Technologies |
-| :--- | :--- |
-| [GitHub Repo](https://github.com/yourusername/BursaryManagementSystem) | Java, Vaadin, Spring Boot, MySQL |
+This process taught me to work independently, solve coding challenges effectively, and document my work in a professional way using GitHub.
+
+---
+
+## 🧩 Step 4: Connect
+All my projects connect towards a single goal — becoming a **skilled Full-Stack Developer** who can design systems that solve real-world problems.  
+Through these artefacts, I’ve learned to:
+- Plan and structure database-driven applications,  
+- Build interactive UIs using Java, PHP, and Vaadin,  
+- Apply business understanding to technical solutions,  
+- Use GitHub for project collaboration and documentation,  
+- Present my work in a professional digital format.
+
+These experiences have enhanced my **work readiness**, teamwork awareness, and professional confidence — key skills for entering the ICT industry.
+
+---
+
+## 📜 Certificates
+View my professional certifications below:
+
+- [Craft a Great GitHub Profile](./CertificateOfCompletion_Craft%20a%20Great%20GitHub%20Profile%20(1).pdf)
+- [Finance Essentials for Small Business](./CertificateOfCompletion_Finance%20Essentials%20for%20Small%20Business.pdf)
+- [Foundations of Raising Capital](./CertificateOfCompletion_Foundations%20of%20Raising%20Capital.pdf)
+- [Level Up: Advanced SQL](./CertificateOfCompletion_Level%20Up%20Advanced%20SQL.pdf)
+- [Microsoft SQL Server 2016: Query Data](./CertificateOfCompletion_Microsoft%20SQL%20Server%202016%20Query%20Data.pdf)
+- [Understanding Business](./CertificateOfCompletion_Understanding%20Business.pdf)
 
 ---
 
@@ -82,30 +89,13 @@ Built with **Java**, **Spring Boot**, and **MySQL**, and connected to **MySQL Wo
 
 ---
 
-## 🎓 Certificates
-
-Here are some of the professional certificates I’ve earned to strengthen my technical and business knowledge:
-
-| Certificate | Issued |
-| :----------- | :------ |
-| 🏆 [Craft a Great GitHub Profile](./CertificateOfCompletion_Craft%20a%20Great%20GitHub%20Profile%20(1).pdf) | May 6, 2025 |
-| 💼 [Finance Essentials for Small Business](./CertificateOfCompletion_Finance%20Essentials%20for%20Small%20Business.pdf) | May 11, 2025 |
-| 💰 [Foundations of Raising Capital](./CertificateOfCompletion_Foundations%20of%20Raising%20Capital.pdf) | May 11, 2025 |
-| 🧠 [Learning Git and GitHub](./CertificateOfCompletion_Learning%20Git%20and%20GitHub.pdf) | _Add issue date_ |
-| ⚙️ [Level Up: Advanced SQL](./CertificateOfCompletion_Level%20Up%20Advanced%20SQL.pdf) | May 11, 2025 |
-| 🗄️ [Microsoft SQL Server 2016: Query Data](./CertificateOfCompletion_Microsoft%20SQL%20Server%202016%20Query%20Data.pdf) | May 11, 2025 |
-| 💡 [Understanding Business](./CertificateOfCompletion_Understanding%20Business.pdf) | May 11, 2025 |
+## 🧭 Conclusion
+This digital portfolio showcases my learning journey for **Project Presentation 3 (PRP370S)**.  
+It highlights the projects, certificates, and skills I have developed during the first semester, and demonstrates my readiness to apply these abilities in a real-world software development environment.
 
 ---
 
-## 🌐 Let’s Connect!
-
-I’m always open to discussing new opportunities, collaborations, or software development ideas.
-
-- **LinkedIn:** [Lisakhanya Mpahla](https://www.linkedin.com/in/lisakhanya-mpahla-69b8ab271)  
-- **Email:** [230126669@mycput.ac.za](mailto:230126669@mycput.ac.za)  
-- **Portfolio Website:** _Coming Soon_
-
----
-
-⭐ _“Striving to build systems that are not only functional but meaningful.”_
+**Submitted by:** Lisakhanya Mpahla  
+**Student Number:** 230126669  
+**Subject:** Project Presentation 3 (PRP370S)  
+**Date:** 19–23 May 2025
