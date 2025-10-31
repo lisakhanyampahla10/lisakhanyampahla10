@@ -71,7 +71,7 @@ Built with **Java**, **Spring Boot**, and **MySQL**, and connected to **MySQL Wo
 | Qualification | Institution | Year |
 | :------------- | :----------- | :---- |
 | **Diploma in ICT (Applications Development)** | Cape Peninsula University of Technology (CPUT) | _In Progress_ |
-| **National Senior Certificate (Matric)** | [Your High School Name] | [Year Completed] |
+| **National Senior Certificate (Matric)** | [Ezingcuka High School] | [2022] |
 
 **Key Academic Focus Areas:**
 - Software Development & Testing  
