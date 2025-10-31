@@ -5,7 +5,7 @@
 
 ---
 
-## 🧩 Step 1: Collect
+
 This section includes all artefacts and evidence of my learning throughout the semester.
 
 ### 📁 Artefacts Collected
@@ -23,7 +23,7 @@ This section includes all artefacts and evidence of my learning throughout the s
 
 ---
 
-## 🧩 Step 2: Select
+
 The artefacts below best demonstrate my growth in technical and professional skills this semester.
 
 | Selected Work | Description | Skills Demonstrated |
@@ -36,7 +36,7 @@ The artefacts below best demonstrate my growth in technical and professional ski
 
 ---
 
-## 🧩 Step 3: Reflect
+
 Throughout this semester, I developed both **technical and professional competencies** that shaped my growth as a future software developer.  
 - I gained deeper knowledge in **backend development** using Java and MySQL.  
 - I strengthened my understanding of **system design**, including user interaction and database connectivity.  
@@ -48,7 +48,7 @@ This process taught me to work independently, solve coding challenges effectivel
 
 ---
 
-## 🧩 Step 4: Connect
+
 All my projects connect towards a single goal — becoming a **skilled Full-Stack Developer** who can design systems that solve real-world problems.  
 Through these artefacts, I’ve learned to:
 - Plan and structure database-driven applications,  
